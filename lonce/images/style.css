@@ -1,0 +1,105 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+font-size: 60px;
+}
+.name-highlight{
+    color: rgb(112, 38, 112);
+}
+.half-width{
+    width: 40%;
+    float: left;
+
+    margin-left: 5%;
+    padding-left: 2%;
+}
+section{
+    height: 150px;
+    padding: 80px;
+
+}
+.half-width img{
+    width: 100%;
+
+}
+
+.name{
+    color: rebeccapurple;
+}
+.top-banner{
+    background-image: url("top.banner.png")
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(105, 189, 105);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+
+} 
+
+.dream-area{
+    background-image: url("top.banner.png");
+}
+.dream-area{
+    float: right;
+}
+.more{
+    color: blue;
+}
+.step{
+    text-align: left;
+    background-color: rgba(165, 42, 79, 0.151);
+
+    border-radius: 5px;
+    color: rgb(50, 32, 212);
+}
+.achive-ment img{
+    width: 20%;
+    margin-left: ;
+    padding: 1%;
+    
+}
+.text-aling{
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(221, 72, 147);
+    padding: 20px 40px ;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+    width: 30%;
+    
+
+}
+.aling{
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(160, 189, 105);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    width: 40%;
+
+}
+.aling-1{
+    text-align: center;
+    color: rgb(116, 44, 44);
+}
+
+.dnc{
+    background-color: black;
+    color: rgb(89, 145, 155);
+    padding: 10px 20px;
+
+}
+.box{
+    box-shadow: 10px 10px 50px rgb(168, 175, 189);
+    border-radius: 5px;
+    height: 80%;
+}
